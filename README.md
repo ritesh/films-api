@@ -1,5 +1,5 @@
 # Films API 
-This repository contains work-in-progress code for a film query API written in the [Rust Programming Language](https://www.rust-lang.org "Rust programming language"). It uses film data from the ![Wikipedia Movie Data Set](https://github.com/prust/wikipedia-movie-data "Wikipedia Movie Data Set" ) to populate a DynamoDB table called "films". When running locally, the API uses DynamoDB local to simulate data storage. I am new to rust, but decided to use this opportunity to try and learn and improve my skills. 
+This repository contains work-in-progress code for a film query API written in the [Rust Programming Language](https://www.rust-lang.org "Rust programming language"). It uses film data from the [Wikipedia Movie Data Set](https://github.com/prust/wikipedia-movie-data "Wikipedia Movie Data Set" ) to populate a DynamoDB table called "films". When running locally, the API uses DynamoDB local to simulate data storage. I am new to rust, but decided to use this opportunity to try and learn and improve my skills. 
 
 This is not complete yet. Please see the TODOS at the bottom of this README. 
 
